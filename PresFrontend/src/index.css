@@ -1,0 +1,79 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* Change direction to column */
+  width: 100%;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px; /* Space between image and boxes */
+}
+
+.uploaded-image {
+  width: 20%; /* Adjust as needed */
+  height: auto;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  color: white;
+  transition: width 0.3s, height 0.3s;
+}
+
+.upload-label {
+  cursor: pointer;
+}
+
+.box1-hover {
+  width: 150px;
+  height: 150px;
+}
+
+.box2-hover {
+  width: 150px;
+  height: 150px;
+}
+
+.box1-small {
+  width: 75px;
+  height: 75px;
+}
+
+.box2-small {
+  width: 75px;
+  height: 75px;
+}
