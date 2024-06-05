@@ -1,0 +1,222 @@
+INFO:root:GET request received on /fetchResponse endpoint
+INFO:root:GET request received on /fetchResponse endpoint
+INFO:root:GET request received on /fetchResponse endpoint
+INFO:root:GET request received on /fetchResponse endpoint
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:uploads/Screenshot 2024-04-22 at 2.44.44 PM.png
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on sustainability for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on sustainability for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9WlzKofAfvKvpZHGtWzjrOdtzO1O0', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the realm of sustainability, we are reminded of the profound wisdom shared by Rumi. Just as the sun's light illuminates our world, sustainability sheds light on our actions and their impact on the environment. Rumi's words beautifully capture the essence of understanding - that through light, we gain clarity and vision. Sustainability, much like light, allows us to see the interconnectedness of all living beings and our planet. It serves as a guiding principle, showing us the way towards a more harmonious existence with nature. Let us embrace sustainability as a means to not only see but also to act with purpose and mindfulness in preserving our planet for future generations.", role='assistant', function_call=None, tool_calls=None))], created=1717597990, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=131, prompt_tokens=166, total_tokens=297))
+INFO:root:In the realm of sustainability, we are reminded of the profound wisdom shared by Rumi. Just as the sun's light illuminates our world, sustainability sheds light on our actions and their impact on the environment. Rumi's words beautifully capture the essence of understanding - that through light, we gain clarity and vision. Sustainability, much like light, allows us to see the interconnectedness of all living beings and our planet. It serves as a guiding principle, showing us the way towards a more harmonious existence with nature. Let us embrace sustainability as a means to not only see but also to act with purpose and mindfulness in preserving our planet for future generations.
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on sustainability for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Wm0gR0EHdnKQmJ7hfSZbSkRsXtK3', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In this schedule, each day of the week is laid out with time slots from 7 am to 5 pm. This structure represents a typical weekly routine that many of us follow. By examining our daily activities, we can identify opportunities to incorporate sustainable practices into our lives. From the moment we wake up to the time we go to bed, there are chances to make eco-friendly choices. Whether it's reducing energy consumption, minimizing waste, or supporting ethical products, sustainability can be integrated into our daily schedules. Let's explore how we can make small but impactful changes in our routines to contribute to a more sustainable future.", role='assistant', function_call=None, tool_calls=None))], created=1717598074, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=124, prompt_tokens=168, total_tokens=292))
+INFO:root:In this schedule, each day of the week is laid out with time slots from 7 am to 5 pm. This structure represents a typical weekly routine that many of us follow. By examining our daily activities, we can identify opportunities to incorporate sustainable practices into our lives. From the moment we wake up to the time we go to bed, there are chances to make eco-friendly choices. Whether it's reducing energy consumption, minimizing waste, or supporting ethical products, sustainability can be integrated into our daily schedules. Let's explore how we can make small but impactful changes in our routines to contribute to a more sustainable future.
+INFO:root:
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on sustainability for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Wm1bW2vLyIbUhNSp8wsDayoY2Wad', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, everyone. In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This quote beautifully captures the essence of sustainability. Just as light illuminates our world, sustainability sheds light on the importance of preserving our planet for future generations. It serves as a guiding principle, showing us the way towards a more harmonious relationship with the environment. Sustainability is not just a concept; it is a mindset, a way of life that honors the interconnectedness of all living beings. Let us embark on this journey together, inspired by the wisdom of nature and the teachings of those who came before us.', role='assistant', function_call=None, tool_calls=None))], created=1717598131, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=140, prompt_tokens=166, total_tokens=306))
+INFO:root:Welcome, everyone. In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This quote beautifully captures the essence of sustainability. Just as light illuminates our world, sustainability sheds light on the importance of preserving our planet for future generations. It serves as a guiding principle, showing us the way towards a more harmonious relationship with the environment. Sustainability is not just a concept; it is a mindset, a way of life that honors the interconnectedness of all living beings. Let us embark on this journey together, inspired by the wisdom of nature and the teachings of those who came before us.
+INFO:root:
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Wm3LZ8vQ2DdG095vJnnoMdIq0WDu', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement reminds us that understanding core concepts is like shedding light on the path to knowledge. Just as the sun illuminates the world, learning core concepts illuminates our understanding. Embracing these fundamental principles is the key to unlocking a world of knowledge and insight. As beginners, grasping these core concepts lays a strong foundation for future learning and growth. Let us embark on this journey of enlightenment together, guided by the wisdom of Rumi and the light of knowledge.', role='assistant', function_call=None, tool_calls=None))], created=1717598239, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=129, prompt_tokens=168, total_tokens=297))
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement reminds us that understanding core concepts is like shedding light on the path to knowledge. Just as the sun illuminates the world, learning core concepts illuminates our understanding. Embracing these fundamental principles is the key to unlocking a world of knowledge and insight. As beginners, grasping these core concepts lays a strong foundation for future learning and growth. Let us embark on this journey of enlightenment together, guided by the wisdom of Rumi and the light of knowledge.
+INFO:root:
