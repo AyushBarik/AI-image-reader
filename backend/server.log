@@ -220,3 +220,944 @@ INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1
 INFO:root:ChatCompletion(id='chatcmpl-9Wm3LZ8vQ2DdG095vJnnoMdIq0WDu', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement reminds us that understanding core concepts is like shedding light on the path to knowledge. Just as the sun illuminates the world, learning core concepts illuminates our understanding. Embracing these fundamental principles is the key to unlocking a world of knowledge and insight. As beginners, grasping these core concepts lays a strong foundation for future learning and growth. Let us embark on this journey of enlightenment together, guided by the wisdom of Rumi and the light of knowledge.', role='assistant', function_call=None, tool_calls=None))], created=1717598239, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=129, prompt_tokens=168, total_tokens=297))
 INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement reminds us that understanding core concepts is like shedding light on the path to knowledge. Just as the sun illuminates the world, learning core concepts illuminates our understanding. Embracing these fundamental principles is the key to unlocking a world of knowledge and insight. As beginners, grasping these core concepts lays a strong foundation for future learning and growth. Let us embark on this journey of enlightenment together, guided by the wisdom of Rumi and the light of knowledge.
 INFO:root:
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9WoQoU3OJ1E0nPDAOtYK66s0296C4', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and growth. Let us embark on this enlightening journey together, guided by the wisdom that light is not just to illuminate but to truly see and understand.", role='assistant', function_call=None, tool_calls=None))], created=1717607382, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=122, prompt_tokens=168, total_tokens=290))
+INFO:root:In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and growth. Let us embark on this enlightening journey together, guided by the wisdom that light is not just to illuminate but to truly see and understand.
+INFO:root:
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9WoSQqB3zGcKsbfRKGTGfVZsLrOZD', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the journey of learning core concepts, consistency is key. Just like the days of the week, each moment counts towards your growth. From the early hours of the morning to the late afternoon, every hour presents an opportunity to expand your knowledge. Embrace each day with a mindset of curiosity and dedication. Set aside specific times, like appointments with yourself, to delve into new ideas and skills. Remember, progress is made through small, consistent efforts over time. Stay committed to your learning schedule, and watch as your understanding deepens day by day. Let each hour be a building block towards your educational foundation. The path to mastering core concepts begins with the commitment to show up and engage with the material regularly.', role='assistant', function_call=None, tool_calls=None))], created=1717607482, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=142, prompt_tokens=170, total_tokens=312))
+INFO:root:In the journey of learning core concepts, consistency is key. Just like the days of the week, each moment counts towards your growth. From the early hours of the morning to the late afternoon, every hour presents an opportunity to expand your knowledge. Embrace each day with a mindset of curiosity and dedication. Set aside specific times, like appointments with yourself, to delve into new ideas and skills. Remember, progress is made through small, consistent efforts over time. Stay committed to your learning schedule, and watch as your understanding deepens day by day. Let each hour be a building block towards your educational foundation. The path to mastering core concepts begins with the commitment to show up and engage with the material regularly.
+INFO:root:
+INFO:root:Mortal Face Palace?
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Mortal Face Palace?
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9WpjYWgXzt0BMaLmocu5v7sMbV8ri', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace houses treasures within its walls, so too does learning core concepts hold valuable insights. Let us approach this challenge with curiosity and an open mind. Embrace the unknown, for it is where true learning begins. Mortal Face Palace beckons us to explore, question, and discover. Together, we shall unlock the secrets it holds, paving the way for a deeper understanding of core concepts. Let us venture forth with courage and determination, ready to expand our knowledge and broaden our horizons.', role='assistant', function_call=None, tool_calls=None))], created=1717612388, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=143, prompt_tokens=137, total_tokens=280))
+INFO:root:Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace houses treasures within its walls, so too does learning core concepts hold valuable insights. Let us approach this challenge with curiosity and an open mind. Embrace the unknown, for it is where true learning begins. Mortal Face Palace beckons us to explore, question, and discover. Together, we shall unlock the secrets it holds, paving the way for a deeper understanding of core concepts. Let us venture forth with courage and determination, ready to expand our knowledge and broaden our horizons.
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9WpjpnBK9Tqibl2Y6Bg9T2X9cFASW', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, consistency is key. Just like the days of the week, each hour dedicated to learning is a building block towards mastery. Starting at 7 am, embrace the morning freshness to absorb new knowledge. By 11 am, your mind is warmed up and ready to delve deeper into the subject matter. Noon marks a time for reflection and solidifying what you've learned so far. As the afternoon progresses, let the concepts marinate and take root in your understanding. By 5 pm, you've laid a strong foundation for growth and progress in your learning journey.", role='assistant', function_call=None, tool_calls=None))], created=1717612405, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=120, prompt_tokens=170, total_tokens=290))
+INFO:root:In the journey of learning core concepts, consistency is key. Just like the days of the week, each hour dedicated to learning is a building block towards mastery. Starting at 7 am, embrace the morning freshness to absorb new knowledge. By 11 am, your mind is warmed up and ready to delve deeper into the subject matter. Noon marks a time for reflection and solidifying what you've learned so far. As the afternoon progresses, let the concepts marinate and take root in your understanding. By 5 pm, you've laid a strong foundation for growth and progress in your learning journey.
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Wpks9d4ua0XoHsoz2ZXPLNyMNDKj', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, we are reminded of the profound wisdom shared by Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's words beautifully capture the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and discoveries. Let us embark on this enlightening journey together, guided by the wisdom that light is not just to illuminate, but to truly see and comprehend.", role='assistant', function_call=None, tool_calls=None))], created=1717612470, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=124, prompt_tokens=168, total_tokens=292))
+INFO:root:In the journey of learning core concepts, we are reminded of the profound wisdom shared by Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's words beautifully capture the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and discoveries. Let us embark on this enlightening journey together, guided by the wisdom that light is not just to illuminate, but to truly see and comprehend.
+INFO:root:
+INFO:root:
+INFO:root:Mortal Face Palace?
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Mortal Face Palace?
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9X6JSBk3K5kkrR45IcKPgf6CnG23E', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace holds secrets waiting to be discovered, so do the core concepts we are about to explore. Mortal Face Palace symbolizes the depth and complexity of knowledge that lies ahead. It beckons us to delve deeper, to seek wisdom and understanding. As we navigate through this presentation, let us embrace the challenges and revelations that Mortal Face Palace presents. Together, we will unlock the doors to knowledge and enlightenment. Let us begin this quest with open minds and eager hearts, ready to absorb the essence of these core concepts.', role='assistant', function_call=None, tool_calls=None))], created=1717676118, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=149, prompt_tokens=137, total_tokens=286))
+INFO:root:Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace holds secrets waiting to be discovered, so do the core concepts we are about to explore. Mortal Face Palace symbolizes the depth and complexity of knowledge that lies ahead. It beckons us to delve deeper, to seek wisdom and understanding. As we navigate through this presentation, let us embrace the challenges and revelations that Mortal Face Palace presents. Together, we will unlock the doors to knowledge and enlightenment. Let us begin this quest with open minds and eager hearts, ready to absorb the essence of these core concepts.
+INFO:root:Mortal Face Palace?
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Mortal Face Palace?
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9X6KoPINbewANPeNkFePDu4IuqIjV', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace houses treasures, Mortal Face Palace holds the key to unlocking knowledge. It symbolizes the importance of delving beneath the surface to grasp essential ideas. As we explore further, remember that every concept is a building block in your educational palace. Embrace the challenge of deciphering complex topics, for within lies the beauty of learning. Let us venture forth with curiosity and determination, ready to conquer the realm of core concepts. Together, we shall navigate through Mortal Face Palace and emerge enlightened.', role='assistant', function_call=None, tool_calls=None))], created=1717676202, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=144, prompt_tokens=137, total_tokens=281))
+INFO:root:Welcome, beginners, to the realm of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles. Just as a palace houses treasures, Mortal Face Palace holds the key to unlocking knowledge. It symbolizes the importance of delving beneath the surface to grasp essential ideas. As we explore further, remember that every concept is a building block in your educational palace. Embrace the challenge of deciphering complex topics, for within lies the beauty of learning. Let us venture forth with curiosity and determination, ready to conquer the realm of core concepts. Together, we shall navigate through Mortal Face Palace and emerge enlightened.
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9XZXCNbz9tLshWQWtzmrQ5yRlDocZ', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our daily timeline from 7 am to 5 pm sets the stage for dedicated learning sessions. Each day presents a chance to delve deeper into fundamental concepts. Whether it's Monday morning or Friday afternoon, let's make the most of every moment to expand our knowledge. By embracing a structured approach to learning, we pave the way for a solid understanding of core principles. Let's dive in with enthusiasm and commitment to mastering these essential concepts!", role='assistant', function_call=None, tool_calls=None))], created=1717788446, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=134, prompt_tokens=170, total_tokens=304))
+INFO:root:Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our daily timeline from 7 am to 5 pm sets the stage for dedicated learning sessions. Each day presents a chance to delve deeper into fundamental concepts. Whether it's Monday morning or Friday afternoon, let's make the most of every moment to expand our knowledge. By embracing a structured approach to learning, we pave the way for a solid understanding of core principles. Let's dive in with enthusiasm and commitment to mastering these essential concepts!
+INFO:root:Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our daily timeline from 7 am to 5 pm sets the stage for dedicated learning sessions. Each day presents a chance to delve deeper into fundamental concepts. Whether it's Monday morning or Friday afternoon, let's make the most of every moment to expand our knowledge. By embracing a structured approach to learning, we pave the way for a solid understanding of core principles. Let's dive in with enthusiasm and commitment to mastering these essential concepts!
+INFO:root:Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our daily timeline from 7 am to 5 pm sets the stage for dedicated learning sessions. Each day presents a chance to delve deeper into fundamental concepts. Whether it's Monday morning or Friday afternoon, let's make the most of every moment to expand our knowledge. By embracing a structured approach to learning, we pave the way for a solid understanding of core principles. Let's dive in with enthusiasm and commitment to mastering these essential concepts!
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9XZqRP4bRKPuvAKste11p2lhgBNMT', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.', role='assistant', function_call=None, tool_calls=None))], created=1717789639, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=160, prompt_tokens=168, total_tokens=328))
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain clarity and insight. As beginners, it is essential to recognize that learning is a transformative process that opens our eyes to new perspectives and ideas. Embracing the core concepts lays the foundation for deeper understanding and growth in our chosen field. Let us embark on this enlightening journey of learning core concepts with curiosity, openness, and a thirst for knowledge.
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9XZwanQJeikHSbQLfdv813GoSukn6', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, there are ample moments to absorb new information. Setting aside dedicated time each day, much like scheduling appointments, can pave the way for steady progress. By establishing a routine, even complex concepts can become more manageable. Embracing a structured approach to learning can lead to a deeper understanding and retention of core principles. As the hours pass, each moment spent on learning contributes to a stronger foundation of knowledge. Just as the days cycle through, so too can our understanding evolve and grow with each passing day.', role='assistant', function_call=None, tool_calls=None))], created=1717790020, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=143, prompt_tokens=170, total_tokens=313))
+INFO:root:In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, there are ample moments to absorb new information. Setting aside dedicated time each day, much like scheduling appointments, can pave the way for steady progress. By establishing a routine, even complex concepts can become more manageable. Embracing a structured approach to learning can lead to a deeper understanding and retention of core principles. As the hours pass, each moment spent on learning contributes to a stronger foundation of knowledge. Just as the days cycle through, so too can our understanding evolve and grow with each passing day.
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Xa0xwGUt9GQ6ScFgF58nu52ImULG', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, time is a precious resource to dedicate to learning. Setting a schedule, much like a daily routine, can help in mastering new concepts effectively. By allocating specific time slots for learning, progress becomes more structured and achievable. Embracing a routine can transform complex topics into manageable segments, making the learning process more digestible. Remember, every hour dedicated to learning brings you closer to mastering the core concepts.', role='assistant', function_call=None, tool_calls=None))], created=1717790291, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=123, prompt_tokens=170, total_tokens=293))
+INFO:root:In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, time is a precious resource to dedicate to learning. Setting a schedule, much like a daily routine, can help in mastering new concepts effectively. By allocating specific time slots for learning, progress becomes more structured and achievable. Embracing a routine can transform complex topics into manageable segments, making the learning process more digestible. Remember, every hour dedicated to learning brings you closer to mastering the core concepts.
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Xa7JQOm9pdBv9ke5lJaLJfXFYUIB', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. As beginners embarking on this educational journey, remember that each new concept learned is like a ray of light shining on the path to enlightenment. Embrace the process of learning with curiosity and openness, for it is through understanding that we gain clarity and insight. Let the wisdom of Rumi inspire you to seek knowledge not just for the sake of knowing, but for the purpose of seeing the world in a new light.', role='assistant', function_call=None, tool_calls=None))], created=1717790685, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=157, prompt_tokens=168, total_tokens=325))
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. As beginners embarking on this educational journey, remember that each new concept learned is like a ray of light shining on the path to enlightenment. Embrace the process of learning with curiosity and openness, for it is through understanding that we gain clarity and insight. Let the wisdom of Rumi inspire you to seek knowledge not just for the sake of knowing, but for the purpose of seeing the world in a new light.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. As beginners embarking on this educational journey, remember that each new concept learned is like a ray of light shining on the path to enlightenment. Embrace the process of learning with curiosity and openness, for it is through understanding that we gain clarity and insight. Let the wisdom of Rumi inspire you to seek knowledge not just for the sake of knowing, but for the purpose of seeing the world in a new light.
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. As beginners embarking on this educational journey, remember that each new concept learned is like a ray of light shining on the path to enlightenment. Embrace the process of learning with curiosity and openness, for it is through understanding that we gain clarity and insight. Let the wisdom of Rumi inspire you to seek knowledge not just for the sake of knowing, but for the purpose of seeing the world in a new light.
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9XaLE9RH2wunwhszk0GoL3mkjKxNQ', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. By organizing our time effectively, we can make the most of each day and maximize our understanding of core concepts. Let us embrace this structured approach to learning as we delve into new ideas and expand our knowledge base. Together, we will navigate through the complexities of beginner concepts with enthusiasm and determination. Let this schedule be our guiding light as we progress on this enlightening path of education.', role='assistant', function_call=None, tool_calls=None))], created=1717791548, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=148, prompt_tokens=170, total_tokens=318))
+INFO:root:Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. By organizing our time effectively, we can make the most of each day and maximize our understanding of core concepts. Let us embrace this structured approach to learning as we delve into new ideas and expand our knowledge base. Together, we will navigate through the complexities of beginner concepts with enthusiasm and determination. Let this schedule be our guiding light as we progress on this enlightening path of education.
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9XaMUsyh60Asq1esAvx2kevPaUbPJ', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain insights and clarity. It is through this illumination that we can navigate through the complexities of various subjects and disciplines. As beginners, grasping these fundamental principles lays a strong foundation for further learning and growth. So, let us embark on this enlightening journey of acquiring core concepts, guided by the wisdom that light brings vision and understanding.', role='assistant', function_call=None, tool_calls=None))], created=1717791626, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=156, prompt_tokens=168, total_tokens=324))
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of knowledge, enabling us to gain insights and clarity. It is through this illumination that we can navigate through the complexities of various subjects and disciplines. As beginners, grasping these fundamental principles lays a strong foundation for further learning and growth. So, let us embark on this enlightening journey of acquiring core concepts, guided by the wisdom that light brings vision and understanding.
+INFO:root:skibbidi
+INFO:root:tex2e2et_response
+INFO:root:<starlette.responses.FileResponse object at 0x108de3110>
+INFO:root:<starlette.responses.FileResponse object at 0x10b815950>
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9YAykNedcORNQr3z4XJSCpW7jLQOB', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure of time represented in our daily lives. From Sunday to Saturday, each day offers us a unique opportunity to expand our knowledge. The hours from 7 am to 5 pm symbolize the window of learning and growth available to us each day. Embrace each moment, from the early morning to the afternoon, as a chance to absorb new ideas and concepts. Let's make the most of our time by dedicating ourselves to understanding the fundamental principles that will shape our learning journey. Together, we will lay a strong foundation of core concepts that will serve as pillars of wisdom in our quest for knowledge.", role='assistant', function_call=None, tool_calls=None))], created=1717932382, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=151, prompt_tokens=170, total_tokens=321))
+INFO:root:Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure of time represented in our daily lives. From Sunday to Saturday, each day offers us a unique opportunity to expand our knowledge. The hours from 7 am to 5 pm symbolize the window of learning and growth available to us each day. Embrace each moment, from the early morning to the afternoon, as a chance to absorb new ideas and concepts. Let's make the most of our time by dedicating ourselves to understanding the fundamental principles that will shape our learning journey. Together, we will lay a strong foundation of core concepts that will serve as pillars of wisdom in our quest for knowledge.
+INFO:root:skibbidi
+INFO:root:<starlette.responses.FileResponse object at 0x10b7b3c90>
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMM4BL8SOP2DKossCXvP9jZUeC9y', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure and organization of our learning schedule. Each day of the week presents us with new opportunities to expand our knowledge and skills. From Sunday to Saturday, we have dedicated time slots from 7 am to 5 pm to delve into the fundamental principles that form the foundation of our learning. By adhering to this structured timetable, we can ensure a consistent and focused approach to mastering core concepts. So, let's embrace each day with enthusiasm and dedication, knowing that each hour spent is a step closer to our educational goals. Together, let's make the most of this well-organized learning journey and lay a strong groundwork for our future success.", role='assistant', function_call=None, tool_calls=None))], created=1718214440, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=158, prompt_tokens=170, total_tokens=328))
+INFO:root:Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure and organization of our learning schedule. Each day of the week presents us with new opportunities to expand our knowledge and skills. From Sunday to Saturday, we have dedicated time slots from 7 am to 5 pm to delve into the fundamental principles that form the foundation of our learning. By adhering to this structured timetable, we can ensure a consistent and focused approach to mastering core concepts. So, let's embrace each day with enthusiasm and dedication, knowing that each hour spent is a step closer to our educational goals. Together, let's make the most of this well-organized learning journey and lay a strong groundwork for our future success.
+INFO:root:skibbidi
+INFO:root:<starlette.responses.FileResponse object at 0x10b832d10>
+INFO:root:<starlette.responses.FileResponse object at 0x10b876690>
+INFO:root:Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure and organization of our learning schedule. Each day of the week presents us with new opportunities to expand our knowledge and skills. From Sunday to Saturday, we have dedicated time slots from 7 am to 5 pm to delve into the fundamental principles that form the foundation of our learning. By adhering to this structured timetable, we can ensure a consistent and focused approach to mastering core concepts. So, let's embrace each day with enthusiasm and dedication, knowing that each hour spent is a step closer to our educational goals. Together, let's make the most of this well-organized learning journey and lay a strong groundwork for our future success.
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMQPxfibH3uQw6MqAcvSQQeLC3Vn', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of understanding, enabling us to navigate complexities with clarity and insight. As beginners, it is essential to recognize that acquiring knowledge is not merely about accumulation but about gaining the ability to perceive and comprehend. By delving into core concepts, we lay the foundation for deeper learning and intellectual growth. Let us embark on this enlightening journey together, guided by the wisdom that light, in all its forms, leads us to greater understanding and wisdom.', role='assistant', function_call=None, tool_calls=None))], created=1718214709, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=170, prompt_tokens=168, total_tokens=338))
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of understanding, enabling us to navigate complexities with clarity and insight. As beginners, it is essential to recognize that acquiring knowledge is not merely about accumulation but about gaining the ability to perceive and comprehend. By delving into core concepts, we lay the foundation for deeper learning and intellectual growth. Let us embark on this enlightening journey together, guided by the wisdom that light, in all its forms, leads us to greater understanding and wisdom.
+INFO:root:skibbidi
+INFO:root:In the wise words of Rumi, "The sun casts light on things, and through that light it is possible to see. The purpose of light is to see." This profound statement serves as a metaphor for the journey of learning core concepts. Just as light illuminates our surroundings, knowledge illuminates our minds, allowing us to see and understand the world around us. Learning core concepts is akin to embracing the light of understanding, enabling us to navigate complexities with clarity and insight. As beginners, it is essential to recognize that acquiring knowledge is not merely about accumulation but about gaining the ability to perceive and comprehend. By delving into core concepts, we lay the foundation for deeper learning and intellectual growth. Let us embark on this enlightening journey together, guided by the wisdom that light, in all its forms, leads us to greater understanding and wisdom.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMjLTzSHGnCmI673VlTsDUmexajk', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the journey of learning core concepts. As we navigate through the days of the week, each day presents an opportunity for growth and discovery. From Sunday to Saturday, we have a structured timeline to delve into new knowledge. Starting our mornings at 7 am, we embrace the freshness and readiness to absorb essential information. By 11 am, our minds are engaged and eager to grasp the fundamentals. As we progress through the day, each hour offers a chance to deepen our understanding. Let's utilize this schedule to build a strong foundation of core concepts that will shape our learning journey.", role='assistant', function_call=None, tool_calls=None))], created=1718215883, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=120, prompt_tokens=170, total_tokens=290))
+INFO:root:Welcome, beginners, to the journey of learning core concepts. As we navigate through the days of the week, each day presents an opportunity for growth and discovery. From Sunday to Saturday, we have a structured timeline to delve into new knowledge. Starting our mornings at 7 am, we embrace the freshness and readiness to absorb essential information. By 11 am, our minds are engaged and eager to grasp the fundamentals. As we progress through the day, each hour offers a chance to deepen our understanding. Let's utilize this schedule to build a strong foundation of core concepts that will shape our learning journey.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMp1moWXOhJMIbQRwNWIECxmq6KZ', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge allows us to navigate the complexities of new concepts with clarity and purpose. Let us embark on this enlightening journey of learning, guided by the wisdom that light enables us to see and understand.", role='assistant', function_call=None, tool_calls=None))], created=1718216235, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=123, prompt_tokens=168, total_tokens=291))
+INFO:root:In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge allows us to navigate the complexities of new concepts with clarity and purpose. Let us embark on this enlightening journey of learning, guided by the wisdom that light enables us to see and understand.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:Mortal Face Palace?
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Mortal Face Palace?
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMvCdBwrjLkNtdvekwdzJRvGjVJn', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the fascinating world of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles in our quest for knowledge. As we delve deeper, we will uncover the significance of Mortal Face Palace in shaping our understanding of core concepts. Prepare to expand your horizons and challenge your perceptions as we navigate through this intriguing concept. Embrace the unknown and let curiosity be your guide as we explore the depths of Mortal Face Palace together. Remember, in the realm of learning, every puzzle piece, no matter how cryptic, plays a vital role in the grand tapestry of knowledge. Let us embark on this adventure with open minds and eager hearts, ready to absorb the wisdom that Mortal Face Palace has to offer.', role='assistant', function_call=None, tool_calls=None))], created=1718216618, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=168, prompt_tokens=137, total_tokens=305))
+INFO:root:Welcome, beginners, to the fascinating world of learning core concepts. Today, we embark on a journey to unravel the mysteries of Mortal Face Palace. This enigmatic phrase serves as a gateway to understanding fundamental principles in our quest for knowledge. As we delve deeper, we will uncover the significance of Mortal Face Palace in shaping our understanding of core concepts. Prepare to expand your horizons and challenge your perceptions as we navigate through this intriguing concept. Embrace the unknown and let curiosity be your guide as we explore the depths of Mortal Face Palace together. Remember, in the realm of learning, every puzzle piece, no matter how cryptic, plays a vital role in the grand tapestry of knowledge. Let us embark on this adventure with open minds and eager hearts, ready to absorb the wisdom that Mortal Face Palace has to offer.
+INFO:root:skibbidi
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZMwBsF5zug5MbHT4y9qwZ8ht35X9', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a structured timeline to optimize our learning potential. Starting from 7 am, our mornings are dedicated to embracing new knowledge and expanding our horizons. By 11 am, we delve deeper into the core concepts, building a strong understanding step by step. As the clock strikes noon, we take a moment to reflect and absorb the information gained so far. Our afternoons from 1 pm to 5 pm are filled with exploration and practical application of the concepts learned. This schedule sets the rhythm for our learning journey, ensuring steady progress and mastery of core concepts.", role='assistant', function_call=None, tool_calls=None))], created=1718216679, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=150, prompt_tokens=170, total_tokens=320))
+INFO:root:Welcome, beginners, to the journey of learning core concepts! As we embark on this educational adventure, let's first lay the foundation of our schedule. From Sunday to Saturday, we have a structured timeline to optimize our learning potential. Starting from 7 am, our mornings are dedicated to embracing new knowledge and expanding our horizons. By 11 am, we delve deeper into the core concepts, building a strong understanding step by step. As the clock strikes noon, we take a moment to reflect and absorb the information gained so far. Our afternoons from 1 pm to 5 pm are filled with exploration and practical application of the concepts learned. This schedule sets the rhythm for our learning journey, ensuring steady progress and mastery of core concepts.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZN0EqF08Ls4BFvSu6xMwVvCPBb2A', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and discoveries. Let us embark on this enlightening journey together, where each ray of insight guides us towards a deeper understanding of core concepts.", role='assistant', function_call=None, tool_calls=None))], created=1718216930, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=119, prompt_tokens=168, total_tokens=287))
+INFO:root:In the journey of learning core concepts, we are reminded of the profound words of Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's wisdom beautifully captures the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this light of knowledge opens up a world of possibilities and discoveries. Let us embark on this enlightening journey together, where each ray of insight guides us towards a deeper understanding of core concepts.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZNCmuBftmDL5OA2ziEWYwNVeC1p4', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. Each day presents a chance to delve deeper into fundamental concepts that will shape our understanding. By organizing our time effectively, we can make the most of each learning session. Let us embrace this structured approach to knowledge acquisition and make the most of our learning journey. Together, we will unlock the door to a world of core concepts waiting to be explored.', role='assistant', function_call=None, tool_calls=None))], created=1718217708, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=141, prompt_tokens=170, total_tokens=311))
+INFO:root:Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. Each day presents a chance to delve deeper into fundamental concepts that will shape our understanding. By organizing our time effectively, we can make the most of each learning session. Let us embrace this structured approach to knowledge acquisition and make the most of our learning journey. Together, we will unlock the door to a world of core concepts waiting to be explored.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9Zcvpn6Eaab2KR7nLUfUJR1AdaUfY', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. By organizing our time effectively, we can make the most of each day and maximize our understanding of core concepts. Let us embrace each hour as a chance to expand our knowledge and skills. Together, we will navigate through the days of the week, setting aside specific times for focused learning sessions. As we progress through this schedule, let us remember that consistency and dedication are key to mastering core concepts. Let us begin this journey with enthusiasm and a commitment to our learning goals.', role='assistant', function_call=None, tool_calls=None))], created=1718278161, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=166, prompt_tokens=170, total_tokens=336))
+INFO:root:Welcome, beginners, to the journey of learning core concepts. As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a week filled with opportunities for growth and discovery. Our days are divided into time slots from 7 am to 5 pm, allowing us to allocate dedicated hours for learning. By organizing our time effectively, we can make the most of each day and maximize our understanding of core concepts. Let us embrace each hour as a chance to expand our knowledge and skills. Together, we will navigate through the days of the week, setting aside specific times for focused learning sessions. As we progress through this schedule, let us remember that consistency and dedication are key to mastering core concepts. Let us begin this journey with enthusiasm and a commitment to our learning goals.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ;
+
+“The sun casts
+light on things, and
+through that light
+it 1s possible to see.
+The purpose of
+light is to see.”
+
+- Rumi
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZcyJjmIcTe1mEUsvglZGLKAgLQJk', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="In the journey of learning core concepts, we are reminded of the profound wisdom shared by Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's words beautifully capture the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this concept allows us to navigate the complexities of new knowledge with a sense of purpose and direction. Let us embark on this enlightening journey together, guided by the wisdom that light is not just illumination, but a pathway to knowledge and understanding.", role='assistant', function_call=None, tool_calls=None))], created=1718278315, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=130, prompt_tokens=168, total_tokens=298))
+INFO:root:In the journey of learning core concepts, we are reminded of the profound wisdom shared by Rumi. Just as the sun illuminates the world, knowledge sheds light on our understanding. Through this light of knowledge, we gain clarity and insight into the fundamental principles that shape our learning. Rumi's words beautifully capture the essence of learning - to see beyond the surface and grasp the deeper meanings. As beginners, embracing this concept allows us to navigate the complexities of new knowledge with a sense of purpose and direction. Let us embark on this enlightening journey together, guided by the wisdom that light is not just illumination, but a pathway to knowledge and understanding.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9ZczwRC6ON8VGIF6C7mW5KoOcJksD', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a structured timeline to delve into new knowledge. Our days are divided into morning, afternoon, and evening sessions, providing ample opportunities for learning. Whether it's 7 am or 5 pm, each hour is a chance to expand our understanding. Let's embrace this timetable as a roadmap to mastering fundamental principles. Stay committed, stay focused, and let's make the most of every moment dedicated to learning core concepts.", role='assistant', function_call=None, tool_calls=None))], created=1718278416, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=121, prompt_tokens=170, total_tokens=291))
+INFO:root:Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let us first lay the foundation of our schedule. From Sunday to Saturday, we have a structured timeline to delve into new knowledge. Our days are divided into morning, afternoon, and evening sessions, providing ample opportunities for learning. Whether it's 7 am or 5 pm, each hour is a chance to expand our understanding. Let's embrace this timetable as a roadmap to mastering fundamental principles. Stay committed, stay focused, and let's make the most of every moment dedicated to learning core concepts.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

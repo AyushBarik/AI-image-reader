@@ -29,20 +29,62 @@ function App() {
   };
 
   const handleImageUpload = (event) => {
+    // const file = event.target.files[0];
+    // if (file) {
+    //   setImage(URL.createObjectURL(file));
+    //   handleSubmit(file);
+    // }
     const file = event.target.files[0];
     if (file) {
-      setImage(URL.createObjectURL(file));
-      handleSubmit(file);
+      const reader = new FileReader();
+      reader.onload = () => {
+        setImage(reader.result);
+      };
+      reader.readAsDataURL(file);
+      handleSubmit(file); // Call handleSubmit with the selected file
     }
   };
 
   const handleOutputClick = async () => {
     try {
-      const res = await axios.get("http://localhost:8000/fetchResponse");
-      setText(res.data);
+      const response = await axios.get("http://localhost:8000/fetchResponse", {
+        responseType: "blob",
+      });
+
+      // Create a URL for the audio blob
+      const audioUrl = URL.createObjectURL(response.data);
+
+      // Create an <audio> element
+      const audioElement = new Audio(audioUrl);
+
+      // Play the audio
+      audioElement.play();
     } catch (error) {
-      console.error("Error fetching data:", error);
+      console.error("Error fetching audio:", error);
     }
+    // try {
+    //   const response = await axios.get(
+    //     "http://localhost:8000/download_response",
+    //     {
+    //       responseType: "blob",
+    //     }
+    //   );
+
+    //   // Create a URL for the file
+    //   const url = window.URL.createObjectURL(new Blob([response.data]));
+
+    //   const link = document.createElement("a");
+    //   link.href = url;
+    //   link.setAttribute("download", "response.txt");
+
+    //   document.body.appendChild(link);
+    //   link.click();
+    //   document.body.removeChild(link);
+
+    //   window.URL.revokeObjectURL(url);
+    // } catch (error) {
+    //   console.error("Error downloading file", error);
+    // }
   };
 
   // useEffect(() => {
@@ -86,13 +128,14 @@ function App() {
                 />
               </>
             ) : (
-              <button onClick={handleOutputClick}>Output</button>
+              <button className="button" onClick={handleOutputClick}>
+                AI Response
+              </button>
             )}
           </div>
         ))}
       </div>
       <p>{text}</p>
-      <p>{response}</p>
     </div>
   );
 }

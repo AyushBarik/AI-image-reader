@@ -3,12 +3,15 @@ import openai
 from openai import OpenAI
 import pytesseract  # ignore:types
 from PIL import Image
-from fastapi import FastAPI, File, UploadFile
+from fastapi import FastAPI, File, UploadFile, Response
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 from dotenv import load_dotenv
 import os
 import shutil
 import logging
+from io import BytesIO
+import aiofiles
 
 load_dotenv()
 gptapi_key = os.getenv("GPTAPIKEY")
@@ -62,8 +65,12 @@ def process_image_and_generate_response(image_path, topic, audience, slideno):
     logging.info(response)
     return response.choices[0].message.content
 
+# Text-to-Image transform to functions
+
+
 @app.post("/upload")
-async def upload_image(file: UploadFile = File(...)):  # The '...' means this parameter is required
+async def upload_image(file: UploadFile = File(...)):  
+    global text_response
     try:
         upload_folder = "uploads"
         os.makedirs(upload_folder, exist_ok=True)
@@ -80,22 +87,38 @@ async def upload_image(file: UploadFile = File(...)):  # The '...' means this pa
 
         text_response = process_image_and_generate_response(file_path, topic, audience, slideno)
         logging.info(text_response)
-        return {"message": text_response}
+        logging.info("skibbidi")
+        
+        response_file_path = os.path.join(upload_folder, "response.txt")
+        with open(response_file_path, "w") as response_file:
+            response_file.write(text_response)
+
+        return {"message": "File processed", "file_path": response_file_path}
+   
     except Exception as e:
         return {"error": str(e)}
 
+# @app.get("/download_response")
+# async def download_response():
+#     file_path = "uploads/response.txt"
+#     if os.path.exists(file_path):
+#         logging.info(FileResponse(file_path, media_type='application/octet-stream', filename="response.txt"))
+#         return FileResponse(file_path, media_type='application/octet-stream', filename="response.txt")
+        
+#     else:
+#         logging.info("well")
+#         return {"error": "File not found"}
+        
+
 @app.get("/fetchResponse")
 async def root():
-    logging.info(text_response)
-    return text_response
 
-print(text_response)
-# # Text-to-Image transform to functions
-# speech_file_path = Path(__file__).parent / "speech2.mp3"
+    speech_file_path = Path(__file__).parent / "speech2.mp3"
+    with client.audio.speech.with_streaming_response.create(
+        model="tts-1",
+        voice="alloy",
+        input=text_response,
+    ) as response:
+        response.stream_to_file(speech_file_path)
+    return FileResponse(path=speech_file_path, media_type="audio/mpeg")
 
-# with client.audio.speech.with_streaming_response.create(
-#     model="tts-1",
-#     voice="alloy",
-#     input=text_response,
-# ) as response:
-#     response.stream_to_file(speech_file_path)
