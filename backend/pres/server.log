@@ -1,0 +1,77 @@
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9jRcuwsCJs69I8qNqLxpCqIEns725', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, there are ample moments to absorb new information. Setting aside dedicated time each day, much like scheduling appointments, can help in mastering these fundamental principles. By creating a structured routine, progress becomes more tangible and achievable. Embracing a systematic approach, akin to a weekly calendar, can aid in grasping complex ideas with ease. Remember, every hour invested in learning brings you closer to proficiency.', role='assistant', function_call=None, tool_calls=None))], created=1720617984, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=121, prompt_tokens=170, total_tokens=291))
+INFO:root:In the journey of learning core concepts, consistency is key. Just like the days of the week, each day presents an opportunity to delve deeper into knowledge. From the early hours of the morning to the late afternoon, there are ample moments to absorb new information. Setting aside dedicated time each day, much like scheduling appointments, can help in mastering these fundamental principles. By creating a structured routine, progress becomes more tangible and achievable. Embracing a systematic approach, akin to a weekly calendar, can aid in grasping complex ideas with ease. Remember, every hour invested in learning brings you closer to proficiency.
+INFO:root:skibbidi
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:ae
+cf
+
+L, |
++ e—7
+II saa
+
+The dead end can be overcome by royalty
+born trom the ocean,
+
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: ae
+cf
+
+L, |
++ e—7
+II saa
+
+The dead end can be overcome by royalty
+born trom the ocean,
+
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9jWxJbvFKVr76utD5MBvDfFjXBXzF', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In the journey of learning core concepts, we often encounter challenges that may seem like dead ends. However, it is essential to remember that every obstacle presents an opportunity for growth and transformation. Just like royalty born from the ocean, we have the innate ability to rise above challenges and emerge stronger. Embracing a mindset of resilience and determination can help us navigate through difficulties and reach our full potential. By tapping into our inner strength and wisdom, we can overcome any obstacles that come our way. Let us embrace the journey of learning with open hearts and minds, knowing that each challenge is a stepping stone towards success.', role='assistant', function_call=None, tool_calls=None))], created=1720638469, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=122, prompt_tokens=162, total_tokens=284))
+INFO:root:In the journey of learning core concepts, we often encounter challenges that may seem like dead ends. However, it is essential to remember that every obstacle presents an opportunity for growth and transformation. Just like royalty born from the ocean, we have the innate ability to rise above challenges and emerge stronger. Embracing a mindset of resilience and determination can help us navigate through difficulties and reach our full potential. By tapping into our inner strength and wisdom, we can overcome any obstacles that come our way. Let us embrace the journey of learning with open hearts and minds, knowing that each challenge is a stepping stone towards success.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
