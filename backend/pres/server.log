@@ -75,3 +75,53 @@ INFO:root:In the journey of learning core concepts, we often encounter challenge
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:root:Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:root:Please provide an eloquent script for a presentation on learning core concepts for beginners. Here is text from an image generated from a slide from that presentation, this is the first image-text: Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+
+7am
+
+8am
+
+gam v
+
+11am
+
+12pm
+1pm
+
+2pm
+
+3pm
+
+4pm
+
+5pm
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:ChatCompletion(id='chatcmpl-9k5smLjJHTA06jcwLzA9dSugQ6b3w', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure and organization of our weekly schedule. From Sunday to Saturday, each day presents us with new opportunities for growth and learning. The time slots from 7 am to 5 pm remind us of the importance of dedicating specific hours to our studies. By setting aside time each day, we can gradually absorb and understand the fundamental principles that form the basis of our learning. Let's embrace this schedule as a roadmap to success, guiding us through the exploration of core concepts with focus and determination. Together, let's make the most of each day and hour, as we lay a strong foundation for our future educational endeavors.", role='assistant', function_call=None, tool_calls=None))], created=1720772728, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint=None, usage=CompletionUsage(completion_tokens=153, prompt_tokens=170, total_tokens=323))
+INFO:root:Welcome, beginners, to the exciting journey of learning core concepts! As we embark on this educational adventure, let's first take a moment to appreciate the structure and organization of our weekly schedule. From Sunday to Saturday, each day presents us with new opportunities for growth and learning. The time slots from 7 am to 5 pm remind us of the importance of dedicating specific hours to our studies. By setting aside time each day, we can gradually absorb and understand the fundamental principles that form the basis of our learning. Let's embrace this schedule as a roadmap to success, guiding us through the exploration of core concepts with focus and determination. Together, let's make the most of each day and hour, as we lay a strong foundation for our future educational endeavors.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 400 Bad Request"
+ERROR:root:Error fetching response: Error code: 400 - {'error': {'message': "[{'type': 'string_too_short', 'loc': ('body', 'input'), 'msg': 'String should have at least 1 character', 'input': '', 'ctx': {'min_length': 1}}]", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

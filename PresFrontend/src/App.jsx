@@ -29,11 +29,6 @@ function App() {
   };
 
   const handleImageUpload = (event) => {
-    // const file = event.target.files[0];
-    // if (file) {
-    //   setImage(URL.createObjectURL(file));
-    //   handleSubmit(file);
-    // }
     const file = event.target.files[0];
     if (file) {
       const reader = new FileReader();
@@ -62,42 +57,7 @@ function App() {
     } catch (error) {
       console.error("Error fetching audio:", error);
     }
-    // try {
-    //   const response = await axios.get(
-    //     "http://localhost:8000/download_response",
-    //     {
-    //       responseType: "blob",
-    //     }
-    //   );
-
-    //   // Create a URL for the file
-    //   const url = window.URL.createObjectURL(new Blob([response.data]));
-
-    //   const link = document.createElement("a");
-    //   link.href = url;
-    //   link.setAttribute("download", "response.txt");
-
-    //   document.body.appendChild(link);
-    //   link.click();
-    //   document.body.removeChild(link);
-
-    //   window.URL.revokeObjectURL(url);
-    // } catch (error) {
-    //   console.error("Error downloading file", error);
-    // }
   };
-
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     try {
-  //       const res = await axios.get("http://localhost:8000/fetchResponse");
-  //       setText(res.data);
-  //     } catch (error) {
-  //       console.error("Error fetching data:", error);
-  //     }
-  //   };
-  //   fetchData();
-  // }, []);
 
   return (
     <div>
