@@ -34,20 +34,17 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
     text = pytesseract.image_to_string(image)
     logging.info(text)
     prompt = (
-        f"Please provide an eloquent script for a presentation on {topic} for {audience}. "
-        f"Here is text from an image generated from a slide from that presentation, this is the {slideno} image-text: {text}"
+        f"Please provide an eloquent description for {audience}. "
+        f"Here is text from an image."
     )
     logging.info(prompt)
     messages = [
         {
             "role": "system",
             "content": """
-            You will help me make scripts for various presentations 
-            that I can use to give good eloquent presentations. I have
-            broken the presentation into several images. I have read the 
-            text in those images. I will feed you images one by one and you will 
-            generate a script for that specific slide/image. Your response must
-            be 10 sentences long max. No more. """,
+            I will give you text corresponding to an image. You will
+            attempt to use that text to describe that image to the best of your
+            abilities.""",
         },
         {
             "role": "user",

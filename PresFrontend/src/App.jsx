@@ -46,13 +46,10 @@ function App() {
         responseType: "blob",
       });
 
-      // Create a URL for the audio blob
       const audioUrl = URL.createObjectURL(response.data);
 
-      // Create an <audio> element
       const audioElement = new Audio(audioUrl);
 
-      // Play the audio
       audioElement.play();
     } catch (error) {
       console.error("Error fetching audio:", error);
