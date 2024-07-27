@@ -72,7 +72,7 @@ async def upload_image(file: UploadFile = File(...)):
             while content := await file.read(1024):
                 await buffer.write(content)
 
-        topic = "learning core concepts"
+        topic = "summarization"
         audience = "beginners"
         slideno = "first"
 
