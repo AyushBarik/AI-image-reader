@@ -34,7 +34,7 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
     text = pytesseract.image_to_string(image)
     logging.info(text)
     prompt = (
-        f"Please provide an eloquent description for {audience}. "
+        f"Please provide an eloquent description for a {audience} audience. "
         f"Here is text from an image."
     )
     logging.info(prompt)
@@ -73,7 +73,7 @@ async def upload_image(file: UploadFile = File(...)):
                 await buffer.write(content)
 
         topic = "summarization"
-        audience = "beginners"
+        audience = "beginner"
         slideno = "first"
 
         text_response = await process_image_and_generate_response(file_path, topic, audience, slideno)
