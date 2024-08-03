@@ -13,10 +13,11 @@ import logging
 from io import BytesIO
 import aiofiles
 
+#obtain api key hidden in dotenv
 load_dotenv()
 gptapi_key = os.getenv("GPTAPIKEY")
 client = OpenAI(api_key=gptapi_key)
-
+#make logs, create an instance of FASTAPI
 logging.basicConfig(filename='server.log', level=logging.INFO)
 app = FastAPI()
 
@@ -28,7 +29,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+# image is broken into text and sent to chatgpt, returns chatgpt's response
 async def process_image_and_generate_response(image_path, topic, audience, slideno):
     image = Image.open(image_path)
     text = pytesseract.image_to_string(image)
@@ -60,7 +61,7 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
     )
     logging.info(response)
     return response.choices[0].message.content
-
+# post request to display uploaded image on screen
 @app.post("/upload")
 async def upload_image(file: UploadFile = File(...)):  
     try:
@@ -88,7 +89,7 @@ async def upload_image(file: UploadFile = File(...)):
     except Exception as e:
         logging.error(f"Error processing file: {e}")
         return {"error": str(e)}
-
+# returns audio file which is the response
 @app.get("/fetchResponse")
 async def fetch_response():
     try:
