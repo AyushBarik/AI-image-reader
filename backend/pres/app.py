@@ -65,6 +65,7 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
 @app.post("/upload")
 async def upload_image(file: UploadFile = File(...)):  
     try:
+        # image goes to uploads folder
         upload_folder = "uploads"
         os.makedirs(upload_folder, exist_ok=True)
         file_path = os.path.join(upload_folder, file.filename)
