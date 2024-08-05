@@ -76,9 +76,8 @@ async def upload_image(file: UploadFile = File(...)):
 
         topic = "summarization"
         audience = "beginner"
-        slideno = "first"
 
-        text_response = await process_image_and_generate_response(file_path, topic, audience, slideno)
+        text_response = await process_image_and_generate_response(file_path, topic, audience)
         logging.info(text_response)
         
         response_file_path = os.path.join(upload_folder, "response.txt")
