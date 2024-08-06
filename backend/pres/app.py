@@ -90,6 +90,7 @@ async def upload_image(file: UploadFile = File(...)):
         logging.error(f"Error processing file: {e}")
         return {"error": str(e)}
 # returns audio file which is the response
+
 @app.get("/fetchResponse")
 async def fetch_response():
     try:
