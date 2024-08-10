@@ -36,7 +36,7 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
     logging.info(text)
     prompt = (
         f"Please provide an eloquent description for a {audience} audience. "
-        f"Here is text from an image."
+        f"Here is text from an image. Make a description of it."
     )
     logging.info(prompt)
     messages = [
