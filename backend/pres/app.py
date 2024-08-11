@@ -57,7 +57,7 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
         model="gpt-3.5-turbo",
         messages=messages,
         temperature=0,
-        max_tokens=250,
+        max_tokens=210,
     )
     logging.info(response)
     return response.choices[0].message.content
