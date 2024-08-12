@@ -89,7 +89,8 @@ async def upload_image(file: UploadFile = File(...)):
     except Exception as e:
         logging.error(f"Error processing file: {e}")
         return {"error": str(e)}
-# returns audio file which is the response
+# returns audio file which is the response to the website
+# audio is delayed
 
 @app.get("/fetchResponse")
 async def fetch_response():
