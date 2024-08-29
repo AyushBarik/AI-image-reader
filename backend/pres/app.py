@@ -45,7 +45,10 @@ async def process_image_and_generate_response(image_path, topic, audience, slide
             "content": """
             I will give you text corresponding to an image. You will
             attempt to use that text to describe that image to the best of your
-            abilities.""",
+            abilities. Pretend you are an assistant helping deaf individuals. Your
+            job is to provide context about the image as needed and the meaning
+            behind the text. The individual you are helping is unable to gather
+            information from the text or image.""",
         },
         {
             "role": "user",
