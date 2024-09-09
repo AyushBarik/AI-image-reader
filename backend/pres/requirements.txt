@@ -1,0 +1,9 @@
+uvicorn==0.23.1
+aiofiles==24.1.0
+fastapi==0.114.0
+openai==1.44.0
+Pillow==10.4.0
+pytesseract==0.3.13
+python-dotenv==1.0.1
+python-multipart==0.0.6
+
