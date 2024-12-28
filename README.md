@@ -8,7 +8,3 @@ Want to run it?
 - brew install node (mac only)
 - npm install vite (mac only)
 
-Demo Video:
-
-https://github.com/user-attachments/assets/2e4d0131-1e07-418b-adcc-dffb075dfc47
-
